@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikaelleven
 - 👀 I’m interested in AI/Agentic workflows, game development, CAD/3D modelling, eletronics, PCB design, IoT
-- 🌱 I’m currently learning more about agentic workflows and game development
+- 🌱 I’m currently learning more about agentic workflows, AI/LLM optimization and game development
 - 💞️ I’m looking to collaborate on... 
 - 📫 How to reach me ...
 
