@@ -4,7 +4,7 @@ My [path into tech](https://mikaelleven.se/amiga/) started with an **Amiga 500**
 
 _"Paper, patience and progress"_. It taught me that curiosity opens doors, problem solving is a superpower, and persistence turns frustration into progress — lessons that still shape how I learn, build and explore today.
 
-### <img height="20" alt="Amiga 500" src="images/amiga_500_m.png" /> It wasn’t just a computer - It was a portal to new worlds
+### <img height="18" alt="" src="images/amiga_500_m.png" /> It wasn’t just a computer - It was a portal to new worlds
 
 That machine sparked a lifelong passion for **computers, games and programming** — but more importantly, it shaped how I still approach technology today:
 
@@ -69,10 +69,10 @@ A few things I've built, explored or probably spent too much time thinking about
 | Project | What & why | Tech |
 | :--- | :--- | :--- |
 | 🧠 **Exocortex** | ***Agent operating layer*** — model- and harness-agnostic glue adding memory, observability and control to agentic workflows. | `AI` `Agents` `Python` |
-| ⚙️ **[ShellKit](https://github.com/mikaelleven/...)** | ***Terminal-first script toolbox*** — launching scripts, tools and automations fast and frictionless using a single easy-to-remember command. | `PowerShell` `TUI` |
-| 🗝️ **[Xilent Secure Vault]([https://github.com/mikaelleven/...](https://github.com/mikaelleven/Xilent-Secure-Vault))** | ***Offline-first secure vault*** — protecting sensitive data with deterministic key derivation, long-term recoverability and no dependency on cloud services or proprietary tooling. | `C#` `Windows Sandbox` |
+| 🧰 **[ShellKit](https://github.com/mikaelleven/...)** | ***Terminal-first script toolbox*** — launching scripts, tools and automations fast and frictionless using a single easy-to-remember command. | `PowerShell` `TUI` |
+| 🗝️ **[Xilent Secure Vault](https://github.com/mikaelleven/Xilent-Secure-Vault)** | ***Offline-first secure vault*** — protecting sensitive data with deterministic key derivation, long-term recoverability and no dependency on cloud services or proprietary tooling. | `C#` `Python` `Encryption` |
 | 💾 **[StateKeep](https://github.com/mikaelleven/StateKeep)** | ***Application settings backup & restore*** — preserving app configurations across machines and reinstalls with simple, automated and repeatable workflows. | `C#` `Windows` `Automation` |
-| 🧰 **[Get Me Ready](https://github.com/mikaelleven/Get-Me-Ready)** | ***Windows setup & provisioning toolkit*** — turning a fresh Windows install into a configured development environment through repeatable automation. | `PowerShell` `Windows` `macOS` `Linux` `Automation` |
+| 🔄 **[Get Me Ready](https://github.com/mikaelleven/Get-Me-Ready)** | ***Cross-platform setup & provisioning toolkit*** — turning a fresh computer install into a configured environment through repeatable automation. | `PowerShell` `Windows` `macOS` `Linux` `Automation` |
 
 ## 👨‍💻 From code to technology leadership
 
@@ -88,8 +88,7 @@ My game-focused work lives under **[@w33zl](https://github.com/w33zl)**.
 
 That is where you'll find more of the modding, game tooling and experiments around games such as **Farming Simulator, SCUM, Elder Scrolls Online and Skyrim**.
 
-> [!TIP]
-> 🏆 I've released **40+ Farming Simulator mods** · **~10M downloads** · **most rated 4.0–4.9** · some still downloaded **5+ years after their final update** — good UX, solid design and attention to detail age well.
+> _🏆 I've released **40+ Farming Simulator mods** · **~10M downloads** · **most rated 4.0–4.9** · some still downloaded **5+ years after their final update** — good UX, solid design and attention to detail age well._
 
 
 ## 🚪 Possibilities
