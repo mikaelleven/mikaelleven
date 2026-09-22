@@ -1,10 +1,10 @@
 # Mikael Levén
 
-**Technology leader by day. Builder by default. Professional nerd since the Amiga era.** 🤓
+**Technology leader by day. Builder by default. Curious by nature. Passionate nerd since the Amiga era.** 🤓
 
 > **It wasn’t just a computer. It was a portal to new worlds.**
 
-My path into tech started with an **Amiga 500**, a stack of magazines, a lot of trial and error, and an urge to understand how things worked.
+My [path into tech](https://mikaelleven.se/amiga/) started with an **Amiga 500**, a stack of magazines, a lot of trial and error, and an urge to understand how things worked.
 
 **Paper, patience and progress.**
 
@@ -23,25 +23,25 @@ The Amiga taught me to explore, to be curious, and not to be afraid of the unkno
 Today that curiosity tends to pull me toward the edges where different disciplines meet:
 
 - 🤖 **AI & agentic systems** — orchestration, memory, observability, local models, context and token efficiency
-- 🛠️ **Developer tooling** — automation, CLI tools and workflows that remove friction
+- 🌱 **AgTech, sustainability & renewable energy** — augment the physical world with technology, and use abundant clean energy to turn scarcity into solvable engineering problems
 - 🔌 **IoT & electronics** — software escaping the screen and interacting with the physical world
-- 🎮 **Game development & modding** — systems, tools, assets and figuring out how games actually work
-- 📐 **CAD / 3D** — turning ideas into things you can hold
-- 🌱 **AgTech & automation** — because software gets more interesting when it meets the real world
+- 🎮 **Game development & modding** — systems, tools, assets and dissecting game mechanics
+- 📐 **CAD / 3D** — turning ideas into things you can hold or worlds to explore
+- 🛠️ **Developer tooling** — automation, CLI tools and workflows that remove friction
 
 ## 🔧 Tools of the trade
 
 **Code**
 
-`C# / .NET` · `TypeScript` · `Bun` · `Node.js` · `Python` · `PowerShell` · `Bash` · `Lua` · `SQL`
+`C# / .NET` · `TypeScript` · `Bun` · `Node.js` · `Python` · `PowerShell` · `Bash` · `Lua` · `SQL` · `noSQL`
 
 **Platforms & infrastructure**
 
-`Windows` · `Linux` · `macOS` · `Docker` · `Azure` · `Git` · `Hyper-V` · `LXC`
+`Windows` · `Linux` · `macOS` · `Docker` · `Azure` · `Proxmox` · `Hyper-V` · `LXC` · `Vagrant`
 
-**Physical world**
+**Physical and virtual world**
 
-`Arduino` · `ESP32` · `Raspberry Pi` · `MQTT` · `I²C` · `SPI` · `KiCad` · `FreeCAD` · `Blender`
+`Arduino` · `ESP32` · `Raspberry Pi` · `MQTT` · `I²C` · `SPI` · `KiCad` · `FreeCAD` · `Blender` · `HLSL/GLSL`
 
 ## ⚙️ How I like to build
 
@@ -76,11 +76,11 @@ GitHub is where I keep the **technical side** of that story.
 
 My game-focused work lives under **[@w33zl](https://github.com/w33zl)**.
 
-That is where you'll find more of the modding, game tooling and experiments around games such as **Farming Simulator, Elder Scrolls Online and Skyrim**.
+That is where you'll find more of the modding, game tooling and experiments around games such as **Farming Simulator, SCUM, Elder Scrolls Online and Skyrim**.
 
-I’ve released **40+ Farming Simulator mods**, with **almost 7 million downloads**.
+> [!TIP]
+> 🏆 I've released **40+ Farming Simulator mods** · **~10M downloads** · **most rated 4.0–4.9** · some still downloaded **5+ years after their final update** — good UX, solid design and attention to detail age well.
 
-Because apparently writing software professionally wasn't enough computers.
 
 ## 🚪 Possibilities
 
