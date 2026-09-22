@@ -1,6 +1,6 @@
-#### **Technology leader by day. Builder by default. Curious by nature. Passionate nerd since the Amiga 🕹️ era.** 🤓
+## **Technology leader by day. Builder by default. Curious by nature. Passionate nerd since the Amiga era.** 🤓
 
-My [path into tech](https://mikaelleven.se/amiga/) started with an **Amiga 500**, a stack of magazines, a lot of trial and error, and an urge to understand how things worked.
+My [path into tech](https://mikaelleven.se/amiga/) started with an **Amiga 500** 🕹️, a stack of magazines 📰, a lot of exploration, trial and error, and an urge to understand how things worked.
 
 _"Paper, patience and progress"_. It taught me that curiosity opens doors, problem solving is a superpower, and persistence turns frustration into progress — lessons that still shape how I learn, build and explore today.
 
@@ -8,7 +8,7 @@ _"Paper, patience and progress"_. It taught me that curiosity opens doors, probl
 
 That machine sparked a lifelong passion for **computers, games and programming** — but more importantly, it shaped how I still approach technology today:
 
-**explore → understand → build → break → learn → improve**
+**🧭 explore → 🔍 understand → 🔨 build → 💥 break → 💡 learn → 🔁 improve**
 
 The tools have changed. The curiosity has not.
 
