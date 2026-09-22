@@ -3,6 +3,10 @@
 **Technology leader by day. Builder by default. Curious by nature. Passionate nerd since the Amiga era.** 🤓
 
 > **It wasn’t just a computer. It was a portal to new worlds.**
+>
+
+<img height="24" alt="Amiga 500" src="https://github.com/user-attachments/assets/f5699c52-fb51-4b5b-b8ff-45e5a409c612" />
+
 
 My [path into tech](https://mikaelleven.se/amiga/) started with an **Amiga 500**, a stack of magazines, a lot of trial and error, and an urge to understand how things worked.
 
