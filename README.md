@@ -1,6 +1,6 @@
 # Mikael Levén
 
-**Technology leader by day. Builder by default. Curious by nature. Passionate nerd since the Amiga era.** 🤓
+**Technology leader by day. Builder by default. Curious by nature. Passionate nerd since the 🕹️ Amiga era.** 🤓
 
 > **It wasn’t just a computer. It was a portal to new worlds.**
 
