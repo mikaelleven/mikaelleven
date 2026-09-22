@@ -34,7 +34,7 @@ A few things I've built, explored or probably spent too much time thinking about
 | Project | What & why | Tech |
 | :--- | :--- | :--- |
 | 🧠 **Exocortex** | ***Agent operating layer*** — model- and harness-agnostic glue adding memory, observability and control to agentic workflows. | `AI` `Agents` `Python` |
-| 🧰 **[ShellKit](https://github.com/mikaelleven/...)** | ***Terminal-first script toolbox*** — launching scripts, tools and automations fast and frictionless using a single easy-to-remember command. | `PowerShell` `TUI` |
+| 🧰 **[ShellKit](https://github.com/mikaelleven/ShellKit)** | ***Terminal-first script toolbox*** — launching scripts, tools and automations fast and frictionless using a single easy-to-remember command. | `PowerShell` `TUI` |
 | 🗝️ **[Xilent Secure Vault](https://github.com/mikaelleven/Xilent-Secure-Vault)** | ***Offline-first secure vault*** — protecting sensitive data with deterministic key derivation, long-term recoverability and no dependency on cloud services or proprietary tooling. | `C#` `Python` `Encryption` |
 | 💾 **[StateKeep](https://github.com/mikaelleven/StateKeep)** | ***Application settings backup & restore*** — preserving app configurations across machines and reinstalls with simple, automated and repeatable workflows. | `C#` `Windows` `Automation` |
 | 🔄 **[Get Me Ready](https://github.com/mikaelleven/Get-Me-Ready)** | ***Cross-platform setup & provisioning toolkit*** — turning a fresh computer install into a configured environment through repeatable automation. | `PowerShell` `Windows` `macOS` `Linux` `Automation` |
