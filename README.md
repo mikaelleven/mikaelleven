@@ -18,9 +18,9 @@ The tools have changed. The curiosity has not.
 
 The Amiga taught me to explore, to be curious, and not to be afraid of the unknown.
 
-Today that curiosity tends to pull me toward the edges where different disciplines meet:
+Today that curiosity tends to pull me toward the edges where different disciplines meet (my _"rabbit holes"_ 🌀):
 
-- 🤖 **AI & agentic systems** — orchestration, memory, observability, local models, context and token efficiency
+- 🤖 **AI & agentic systems** — orchestration, memory, observability, governance, intelligent routing, performance and efficiency
 - 🌱 **AgTech, sustainability & renewable energy** — augment the physical world with technology, and use abundant clean energy to turn scarcity into solvable engineering problems
 - 🔌 **IoT & electronics** — software escaping the screen and interacting with the physical world
 - 🎮 **Game development & modding** — systems, tools, assets and dissecting game mechanics
@@ -31,7 +31,7 @@ Today that curiosity tends to pull me toward the edges where different disciplin
 
 **Code**
 
-`C# / .NET` · `TypeScript` · `Bun` · `Node.js` · `Python` · `PowerShell` · `Bash` · `Lua` · `SQL` · `noSQL`
+`C# / .NET` · `TypeScript` · `Bun` · `Node.js` · `Python` · `C` · `PowerShell` · `Bash` · `Lua` · `SQL` · `noSQL`
 
 **Platforms & infrastructure**
 
