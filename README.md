@@ -1,11 +1,8 @@
-# Mikael Levén
-
-**Technology leader by day. Builder by default. Curious by nature. Passionate nerd since the 🕹️ Amiga era.** 🤓
+#### **Technology leader by day. Builder by default. Curious by nature. Passionate nerd since the Amiga 🕹️ era.** 🤓
 
 My [path into tech](https://mikaelleven.se/amiga/) started with an **Amiga 500**, a stack of magazines, a lot of trial and error, and an urge to understand how things worked.
 
-#### _Paper, patience and progress_
-It taught me that curiosity opens doors, problem solving is a superpower, and persistence turns frustration into progress — lessons that still shape how I learn, build and explore today.
+_"Paper, patience and progress"_. It taught me that curiosity opens doors, problem solving is a superpower, and persistence turns frustration into progress — lessons that still shape how I learn, build and explore today.
 
 ### <img height="20" alt="Amiga 500" src="images/amiga_500_m.png" /> It wasn’t just a computer - It was a portal to new worlds
 
